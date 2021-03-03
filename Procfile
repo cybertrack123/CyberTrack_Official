@@ -1,1 +1,1 @@
-web:gunicorn Cyber.wsgi --log-file -
+web:gunicorn CyberTrack.wsgi --log-file -
