@@ -60,7 +60,6 @@ notebook==6.2.0
 numpy==1.19.1
 opencv-python==4.3.0.36
 packaging==20.4
-pandas==1.2.2
 pandocfilters==1.4.3
 parso==0.8.1
 pefile==2019.4.18
